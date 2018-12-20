@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Media" language="en" table="x_228225_media_media">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Media</label>
+            <language>en</language>
+            <name>x_228225_media_media</name>
+            <plural>Medias</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-19 06:30:26</sys_created_on>
+            <sys_id>02321adcdb6223009135a565ca961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Media</sys_name>
+            <sys_package display_value="Media Library" source="x_228225_media">ed32921cdb6223009135a565ca961933</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Media Library">ed32921cdb6223009135a565ca961933</sys_scope>
+            <sys_update_name>sys_documentation_x_228225_media_media__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-19 06:30:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
